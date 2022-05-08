@@ -1,0 +1,39 @@
+---
+---
+
+@import "minima";
+
+#background-video {
+    width: 100vw;
+    height: 56px;
+    // height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  
+
+@media (max-width: 750px) {
+    #background-video { display: none; }
+    .site-header { background: #0d20ce url("../img/bg-photo.jpg") no-repeat center center; background-size: cover;  }
+    .site-title, .site-title:visited { color: #e7e7e7; }
+}
+  
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid;
+}
+
+
+.site-nav .page-link { color: #e7e7e7; 
+  @media (max-width: 750px) {
+    color: rgb(0, 0, 0);
+  }
+}
+
+.site-title, .site-title:visited { color: #e7e7e7; }

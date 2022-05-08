@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+<!-- <img style="  border-radius: 50%;
+"src="img/CV_HUGO1.2.jpg" alt="Avatar"> -->
+
+<!-- ![Photo](/img/Hugo-Photo.png) -->
+
 Hello! This is a place where I might publish some of my thoughts. They will probably be related to programming, in some way.
 Might be about the things I like to do, or the things I want to learn.
 
