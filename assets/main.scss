@@ -18,9 +18,14 @@
   
 
 @media (max-width: 750px) {
+    .youtube-video {
+        width: 75%;
+    }
     #background-video { display: none; }
-    .site-header { background: #0d20ce url("../img/bg-photo.jpg") no-repeat center center; background-size: cover;  }
-    .site-title, .site-title:visited { color: #e7e7e7; }
+    .site-header { 
+      background: url("../img/bg-img.jpg") #686c8d no-repeat center center; background-size: cover; 
+      height: 56px; 
+  }
 }
   
 

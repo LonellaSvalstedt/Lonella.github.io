@@ -8,7 +8,7 @@ categories: drone mapping
 During the spring of 2022, I was part of a team working on a system for mapping a room using a drone.
 This was a project I was part of in the course M7012E at Luleå University of Technology. 
 
-<iframe style="display: block; margin-left: auto; margin-right: auto;" width="560" height="315" src="https://www.youtube.com/embed/hKLTdr7tsGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block; margin-left: auto; margin-right: auto;" class = "youtube-video" width="560" height="315" src="https://www.youtube.com/embed/hKLTdr7tsGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
