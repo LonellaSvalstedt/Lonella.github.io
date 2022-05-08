@@ -36,4 +36,4 @@ This was probably the biggest road bump for the team. It was quite fiddly to get
 
 I might write some more on this later. For now, here is an example of a finished point cloud.
 
-![Point Cloud](/img/drone/unAndOptimized3m.jpg)
+![Point Cloud](/img/drone/point_cloud.jpg)
