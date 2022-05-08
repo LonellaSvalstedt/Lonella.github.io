@@ -17,6 +17,27 @@
   }
   
 
+body {
+  overflow-x: hidden;
+}
+
+#hugo-photo{
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.social-links .footer-col-wrapper {
+  float: left
+}
+
+.footer-col {
+  float: none;
+  margin-bottom: 15px;
+  padding-left: 15px;
+}
+
 @media (max-width: 750px) {
     .youtube-video {
         width: 75%;
