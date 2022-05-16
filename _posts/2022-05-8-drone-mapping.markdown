@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Point clouds and drones"
-date:   2022-05-08 13:00:00 +0200
+date:   2022-05-9 13:00:00 +0200
 categories: drone mapping
 ---
 
@@ -27,13 +27,15 @@ the position of the drone from the velocity of the drone. The app also keeps tra
 as the points from the ultrasonic sensors will be in relation to the drone. To be able to build a map using these points, the points have to be in relation
 to a starting position.
 
-Seen below is a screenshot of the app. Not a lot of effort was put into the UI, as can be seen!
+Below is a screenshot of the app. Not a lot of effort was put into the UI, as can be seen!
 
 ![Drone App](/img/drone/drone_app.jpg)
 
 In contrast, somewhere where a lot of effort went in was using the DJI SDK. The SDK is a library that allows us to link to and communicate with the drone.
 This was probably the biggest road bump for the team. It was quite fiddly to get started. 
 
-I might write some more on this later. For now, here is an example of a finished point cloud.
+Primarily it was difficult to connect the app to the drone, and to correctly fetch the points from the drone's sensors.
+The drone's horizontal sensors stores points in an array, where each element is a point separated by four degrees from its neighbors.
+
 
 ![Point Cloud](/img/drone/point_cloud.jpg)
