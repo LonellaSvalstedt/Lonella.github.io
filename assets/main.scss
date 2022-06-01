@@ -47,8 +47,17 @@ body {
       background: url("../img/bg-img.jpg") #686c8d no-repeat center center; background-size: cover; 
       height: 56px; 
   }
+    .bookimg {
+      display: none;
+    }
 }
   
+.bookimg {
+  float: right; 
+  margin-left: 10%; 
+  width: 290px; 
+  height: 450px;
+}
 
 .site-header {
   border-top: none;
@@ -63,4 +72,3 @@ body {
 }
 
 .site-title, .site-title:visited { color: #e7e7e7; }
-

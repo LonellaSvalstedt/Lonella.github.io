@@ -3,6 +3,7 @@ layout: post
 title:  "Point clouds and drones"
 date:   2022-05-9 13:00:00 +0200
 categories: drone mapping
+published: true
 ---
 
 During the spring of 2022, I was part of a team working on a system for mapping a room using a drone.

@@ -8,12 +8,9 @@ published: true
 Here are some books I've read recently, and a short bit about what I thought of them.
 
 
-## Lords and Ladies - Terry Pratchett
-#### publ. 1992, read 2022-05
-<img style="float: right; margin-left: 10%; width: 15vw; height: 50vh;" src="/img/books/LAL.jpg" />
-
-The thirteenth book in Terry Pratchett's Discworld series. I really appreciate how optimistic, joyful, and funny Terry Pratchett's books are.
-For me they are the ultimate 'comfort food' books, easy to read and easy to enjoy. 
+## One Hundred Years of Solitude - Gabriel García Márquez
+#### publ. 1970, read 2022-06
+<img class="bookimg" src="/img/books/YOS.jpg" />
 
 -- STILL READING -- 
 
@@ -21,11 +18,28 @@ For me they are the ultimate 'comfort food' books, easy to read and easy to enjo
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br>
+
+## Lords and Ladies - Terry Pratchett
+#### publ. 1992, read 2022-05
+<img class="bookimg" src="/img/books/LAL.jpg" />
+
+The thirteenth book in Terry Pratchett's Discworld series. I really appreciate how optimistic, joyful, and funny Terry Pratchett's books are.
+For me they are the ultimate 'comfort food' books, easy to read and easy to enjoy. 
+
+This book is about mythology, in the same way that 'Small Gods' is about religion. Terry Pratchett does a good job
+of exploring mythological concepts in a way that feels fresh.
+With this entry specifically I really enjoyed the character development. Terry Pratchett has a way of making characters
+that simultaneously feel grounded and utterly fantastical. 
+
+<br><br><br>
+<br><br>
 
 
 ## Slaughterhouse Five - Kurt Vonnegut
 #### publ. 1969, read 2022-05
-<img style="float: right; margin-left: 10%; width: 15vw; height: 50vh;" src="/img/books/SL5.jpg" />
+<img class="bookimg" src="/img/books/SL5.jpg" />
 
 An antiwar book about the bombing of Dresden, where almost twenty-five thousand people were killed. Kurt Vonnegut, the author, was present for the bombing.
 The book is partly him coming to terms with the war. The book follows Billy Pilgrim, an American soldier in the second world war. It is told by an unreliable narrator,
