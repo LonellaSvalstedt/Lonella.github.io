@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Point clouds and drones"
+title:  "Point clouds and drones: Part one"
 date:   2022-05-9 13:00:00 +0200
 categories: drone mapping
 published: true
 ---
 
-During the spring of 2022, I was part of a team working on a system for mapping a room using a drone.
+During the first half of spring of 2022, I was part of a team working on a system for mapping a room using a drone.
 This was a project I was part of in the course M7012E at Luleå University of Technology. 
 
 <iframe style="display: block; margin-left: auto; margin-right: auto;" class = "youtube-video" width="560" height="315" src="https://www.youtube.com/embed/hKLTdr7tsGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ to a starting position.
 
 Below is a screenshot of the app. Not a lot of effort was put into the UI, as can be seen!
 
-![Drone App](/img/drone/drone_app.jpg)
+![Drone App](/img/drone/part1/drone_app.jpg)
 
 In contrast, somewhere where a lot of effort went in was using the DJI SDK. The SDK is a library that allows us to link to and communicate with the drone.
 This was probably the biggest road bump for the team. It was quite fiddly to get started. 
@@ -39,4 +39,6 @@ Primarily it was difficult to connect the app to the drone, and to correctly fet
 The drone's horizontal sensors stores points in an array, where each element is a point separated by four degrees from its neighbors.
 
 
-![Point Cloud](/img/drone/point_cloud.jpg)
+![Point Cloud](/img/drone/part1/point_cloud.jpg)
+
+For the full report, see [diva](https://ltu.diva-portal.org/smash/record.jsf?dswid=-4803&pid=diva2%3A1675581&c=6&searchType=SIMPLE&language=en&query=point+cloud+mapping&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
