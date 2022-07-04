@@ -7,11 +7,9 @@ published: true
 
 Here are some books I've read recently, and a short bit about what I thought of them.
 
-
-## Ronja Rövardotter - Astrid Lindgren
-#### publ. 1981, read 2022-06
-<img class="bookimg" src="/img/books/RRD.jpg">
-
+## The Female Man - Joanna Russ
+#### publ. 1975, read 2022-07
+<img class="bookimg" src="/img/books/TFM.jpg">
 
 -- STILL READING --
 
@@ -20,6 +18,24 @@ Here are some books I've read recently, and a short bit about what I thought of 
 <br><br><br>
 <br><br><br>
 <br><br><br>
+<br><br>
+
+## Ronja Rövardotter - Astrid Lindgren
+#### publ. 1981, read 2022-06
+<img class="bookimg" src="/img/books/RRD.jpg">
+
+*"Men han fattas mej, skrek Mattis. Han fattas mej så det skär i bröstet!"*
+
+A Swedish classic! I was raised on Astrid Lindgren's books, and the movie adaptations of
+her books. This book is a tale inspired by Romeo and Juliet, about two opposing bandit
+clans, Mattisrövarna and Borkarövarna, sharing a fort.  
+
+What I appreciate most about this book is how emotional everyone is: *"Hon är vacker
+som en liten vittra, håll med om det! Lika smidig, lika mörkögd och lika svarthårig. 
+Ni har aldrig sett maken till gran unge, håll med om det!* - Mattis, to a newborn Ronja.
+It is refreshing that a masculine character like the chieftain of a bandit clan can show
+genuine vulnerability.
+
 <br><br>
 
 ## One Hundred Years of Solitude - Gabriel García Márquez
